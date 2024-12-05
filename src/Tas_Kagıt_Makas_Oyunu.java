@@ -48,8 +48,7 @@ public class Tas_Kagıt_Makas_Oyunu {
             } else {
                 System.out.println("Berabere kaldiniz...");
                 System.out.println("Kullanici skoru: " + kullaniciSkoru + " Bilgisayar skoru: " +bilgisayarinSkoru);
-            }
-        }
+            }}
 
         while (kullaniciSkoru!=5 && bilgisayarinSkoru!=5);
 
