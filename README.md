@@ -6,7 +6,7 @@ Bu depo, Java diliyle programlama öğrenme sürecinde geliştirilmiş eğlencel
  
 Proje, IntelliJ IDEA ile oluşturulmuş bir Java projesidir. Ana oyunlar src klasörü altında ayrı paketler/klasörler halinde düzenlenmiştir.
 Plain Text
-LearningJavaWithFun/
+```LearningJavaWithFun/
 ├── .idea/
 ├── out/
 ├── src/
@@ -18,7 +18,7 @@ LearningJavaWithFun/
 │       └── Tas_Kagit_Makas_Oyunu.java
 ├── .gitignore
 ├── LearningJavaWithFun.iml
-└── ...
+└── ...```
 
 
  
@@ -79,7 +79,7 @@ This repository contains fun and simple console-based games developed during the
 
 The project is a Java project created using IntelliJ IDEA. The main games are organized under the src directory in separate packages/folders.
 
-LearningJavaWithFun/
+```LearningJavaWithFun/
 ├── .idea/
 ├── out/
 ├── src/
@@ -91,7 +91,7 @@ LearningJavaWithFun/
 │       └── Tas_Kagit_Makas_Oyunu.java
 ├── .gitignore
 ├── LearningJavaWithFun.iml
-└── ...
+└── ...```
 
 🎮 Included Games
 1. ⚡ FizzBuzz Game
