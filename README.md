@@ -15,7 +15,7 @@ Proje, IntelliJ IDEA ile oluşturulmuş bir Java projesidir. Ana oyunlar src kla
 │       └── Tas_Kagit_Makas_Oyunu.java
 ├── .gitignore
 ├── LearningJavaWithFun.iml
-└── ...
+└── ... 
 ```
 
 🎮 İçerdiği Oyunlar
