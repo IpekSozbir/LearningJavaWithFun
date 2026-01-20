@@ -36,7 +36,7 @@ Bu depoyu yerel bilgisayarınıza klonlayın:
 
 Depoyu Klonlayın:
 
-git clone https://github.com/KULLANICI_ADINIZ/LearningJavaWithFun.git
+git clone https://github.com/IpekSozbir/LearningJavaWithFun.git
 Projeyi IntelliJ IDEA gibi bir Java IDE'sinde açın. Çalıştırmak istediğiniz oyunun (Fizz_Buzz_Oyunu.java, Sayi_Tahminleme_Oyunu.java, veya Tas_Kagit_Makas_Oyunu.java) main metodunu içeren sınıfı bulun. İlgili sınıfı çalıştırarak oyunu konsol üzerinde oynayabilirsiniz.
 
 🕹️ LearningJavaWithFun Project README (English)
@@ -83,7 +83,7 @@ Clone this repository to your local machine:
 
 Clone the Repository:
 
-git clone https://github.com/YOUR_USERNAME/LearningJavaWithFun.git
+git clone https://github.com/IpekSozbir/LearningJavaWithFun.git
 Open the project in a Java IDE such as IntelliJ IDEA.
 
 Locate the class containing the main method for the game you wish to run (Fizz_Buzz_Oyunu.java, Sayi_Tahminleme_Oyunu.java, or Tas_Kagit_Makas_Oyunu.java). Run the selected class and play the game via the console.
